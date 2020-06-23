@@ -24,6 +24,7 @@ title: 关于团队
 |17343060|李宸|[lichen2333](https://github.com/lichen2333)|项目经理、java工程师|
 |15331385|小小良|[ZhangJiaQiao](https://github.com/ZhangJiaQiao)|客户经理、UI/UX设计师|
 |17343101|苏祺达|[SYSU101](https://github.com/SYSU101)|技术经理、js工程师|
+|17308195|颜屹豪|[StarashZero](https://github.com/StarashZero)|c++/java工程师|
 
 * 管理岗：项目经理、客户经理、产品经理
 * 技术岗：架构师（技术经理）、java工程师、js工程师、UI/UX设计师、数据库DBA、AI技术经理等
@@ -36,3 +37,4 @@ title: 关于团队
 |:--:|:--:|:--:|
 |李宸|负责监控整个项目进展，分配具体工作，协调组员交流|无|
 |苏祺达|接口设计、前端开发|Ass♂we♂can|
+|颜屹豪|后台开发|没有发现就没有bug|
