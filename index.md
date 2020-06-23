@@ -32,7 +32,7 @@ layout: default
 * 9、成品展示【完成中】
     - 9.1 XX短视频
     - 9.2 XX短视频
-* X1 [meeting-records](x1-meetings)
+* X1 [meeting-records](x1-meetings)【完成中】
     - inception meeting (yy/mm/dd)
 * X2 [KANBAN](X2-kanban)【完成中】
 * X3 [auditing-records](x3-auditing)【完成中】
