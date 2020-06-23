@@ -22,7 +22,6 @@ title: 关于团队
 |学号|昵称|Github|岗位角色|
 |:--:|:--:|:--:|:--:|
 |17343060|李宸|[lichen2333](https://github.com/lichen2333)|项目经理、java工程师|
-|15331385|小小良|[ZhangJiaQiao](https://github.com/ZhangJiaQiao)|客户经理、UI/UX设计师|
 |17343101|苏祺达|[SYSU101](https://github.com/SYSU101)|技术经理、js工程师|
 |17308195|颜屹豪|[StarashZero](https://github.com/StarashZero)|c++/java工程师|
 
