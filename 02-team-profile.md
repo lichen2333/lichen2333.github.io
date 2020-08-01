@@ -27,6 +27,7 @@ title: 关于团队
 |16307015|陈燕栋|[donggoing](https://github.com/donggoing)|c++/js/python工程师|
 |17343080|陆记|[luji17343080](https://github.com/luji17343080)|客户经理、java工程师|
 |17343026|冯瑞宁|[Jan-Jsr](https://github.com/Jan-Jsr)|产品经理、python/C++工程师|
+|17343052|霍润东|[hrd0000](https://github.com/hrd0000)|产品经理、QA 工程师|
 
 * 管理岗：项目经理、客户经理、产品经理
 * 技术岗：架构师（技术经理）、java工程师、js工程师、UI/UX设计师、数据库DBA、AI技术经理等
@@ -43,3 +44,4 @@ title: 关于团队
 |陈燕栋|软件测试|没有bug就创造bug|
 |陆记|后端开发|我就是一个bug|
 |冯瑞宁|后端开发、项目设计|lbwnb|
+|霍润东|软件测试|无|
